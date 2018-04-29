@@ -1,0 +1,9 @@
+.icon-edit{
+    width:1%;
+}
+body{
+    background-color: #a8c8d8;
+}
+input[type=text]{
+    border:2px solid black;
+}

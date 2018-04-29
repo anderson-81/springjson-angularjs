@@ -1,0 +1,1 @@
+ var app = angular.module("SpringJson", ['rw.moneymask', 'ADM-dateTimePicker', 'ngFileUpload', 'angularUtils.directives.dirPagination']);

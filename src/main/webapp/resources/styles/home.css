@@ -1,0 +1,31 @@
+.jumbotron{
+    border:3px solid black;
+    margin-top: 2%;
+    background-color: #772953;
+    color:white;
+}
+
+.java{
+    width:10%;
+}
+
+.hibernate{
+    width:17%;
+}
+
+.postgresql{
+    width:10%;
+}
+
+.spring{
+    width:20%;
+}
+
+.angularjs{
+    width:18%;
+    margin-right: 3%;
+}
+
+body{
+    background-color: #a8c8d8;
+}
